@@ -1,0 +1,5 @@
+django==5.2.6
+black==24.3.0
+isort==5.12.0
+flake8==6.1.0
+pre-commit==3.4.0
